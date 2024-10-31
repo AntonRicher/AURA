@@ -3,12 +3,11 @@
     color: #fff;
     padding: 12px 24px;
     border-radius: 5px;
-    text-decoration: none;
-    font-weight: bold;
-    display: inline-block;
-    margin-top: 15px;
-    transition: background-color 0.3s ease, transform 0.3s ease;
     font-size: 1.1em;
+    text-align: center;
+    margin-top: 15px;
+    display: inline-block;
+    transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
 .btn-dark:hover {
